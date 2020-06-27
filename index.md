@@ -5,3 +5,6 @@ Bruce Lee, 27. November 1940 in San Francisco geboren; verstorben am 20. Juli 19
 * Boxen
 * Ringen
 * Fechten
+
+Bekanntes Zitat:
+> Be like water my friend
