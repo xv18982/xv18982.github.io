@@ -8,3 +8,5 @@ Bruce Lee, 27. November 1940 in San Francisco geboren; verstorben am 20. Juli 19
 
 Bekanntes Zitat:
 > Be like water my friend
+
+<img src="https://de.wikipedia.org/wiki/Datei:The_age_of_18_Bruce_Lee_and_Ye_Wen.jpg"/>
